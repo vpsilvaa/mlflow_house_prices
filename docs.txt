@@ -1,0 +1,40 @@
+Passos importantes:
+
+* Quais são os principais objetivos do MLflow;
+* Como instalar o MLflow;
+* Como iniciar a interface de usuário do MLflow;
+* Como executar um projeto do MLFlow compartilhado;
+* Como criar um projeto do MLFlow a partir de um cookiecutter.
+
+* Treinar um modelo para prever o preço de venda de um imóvel;
+* Rastrear os resultados de um experimento com o MLflow;
+* Comparar o resultado de diferentes execuções como o MLflow;
+* Comparar diferentes modelos usando o MLflow;
+* Recuperar o resultado de execuções usando a biblioteca Python.
+
+* Transformar um notebook de treino em um script;
+* Utilizar o autolog para gravar o modelo e os seus parâmetros;
+* Passar parâmetros da linha de comando para o nosso script.
+
+* Reproduzir modelos que foram treinados e armazenados no MLFlow;
+* Utilizar o PyFunc do MLFlow para carregar modelos e acessar suas funcionalidades;
+* Utilizar a linha de comando do MLFlow para fazer o predict de uma base de dados;
+* Expor um modelo criado com o MLFlow em uma API Rest utilizando a linha de comando.
+
+* Registrar um modelo no Model Registry;
+* Alterar o status de um modelo de “staging” para “produção”;
+* Um container Docker com o modelo;
+* Consumir um modelo criado a partir de uma imagem Docker.
+
+comandos:
+
+python src\models\train_model.py --learning_rate 0.3 --max_depth 5
+
+mlflow models predict -m 'runs:/14f4252e0b9747afbd54352f72da8e7c/model' -i 'data/processed/casas_X.csv' -t "csv" --env-manager local -o "data/processed/precos_cmd.csv"
+
+mlflow models serve -m "runs:/14f4252e0b9747afbd54352f72da8e7c/model" -p 5005 --env-manager local
+
+mlflow models serve -m "models:/House Prices/Production" -p 5005
+
+mlflow models build-docker -m "runs:/14f4252e0b9747afbd54352f72da8e7c/model" -n "house-prices"
+docker run -p 5005:8080 "house-prices"

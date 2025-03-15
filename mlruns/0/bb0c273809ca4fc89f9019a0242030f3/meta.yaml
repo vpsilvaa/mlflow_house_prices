@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Documents/ambientes/mlflow_win64x/mlflow_alura/mlruns/0/bb0c273809ca4fc89f9019a0242030f3/artifacts
+end_time: 1741903065301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb0c273809ca4fc89f9019a0242030f3
+run_name: treasured-eel-987
+run_uuid: bb0c273809ca4fc89f9019a0242030f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741903027697
+status: 3
+tags: []
+user_id: vitor

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Documents/ambientes/mlflow_win64x/mlflow_alura/notebooks/mlruns/602980415233333545/aa1c28f1cb8c4cceb0b2c1c891f7bdaa/artifacts
+end_time: 1741947372081
+entry_point_name: ''
+experiment_id: '602980415233333545'
+lifecycle_stage: active
+run_id: aa1c28f1cb8c4cceb0b2c1c891f7bdaa
+run_name: traveling-elk-124
+run_uuid: aa1c28f1cb8c4cceb0b2c1c891f7bdaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741947364733
+status: 3
+tags: []
+user_id: vitor

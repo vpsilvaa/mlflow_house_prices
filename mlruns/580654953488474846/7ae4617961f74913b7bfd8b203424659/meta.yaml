@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vitor/Documents/ambientes/mlflow_win64x/mlflow_alura/mlruns/580654953488474846/7ae4617961f74913b7bfd8b203424659/artifacts
+deleted_time: 1742052224364
+end_time: 1742052068477
+entry_point_name: ''
+experiment_id: '580654953488474846'
+lifecycle_stage: deleted
+run_id: 7ae4617961f74913b7bfd8b203424659
+run_name: hilarious-gnu-672
+run_uuid: 7ae4617961f74913b7bfd8b203424659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742052068148
+status: 4
+tags: []
+user_id: vitor

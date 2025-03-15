@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Documents/ambientes/mlflow_win64x/mlflow_alura/mlruns/0/f7d1c8c9a6d9412f906c80ac2218019f/artifacts
+end_time: 1741901868825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7d1c8c9a6d9412f906c80ac2218019f
+run_name: inquisitive-slug-659
+run_uuid: f7d1c8c9a6d9412f906c80ac2218019f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741901821955
+status: 3
+tags: []
+user_id: vitor

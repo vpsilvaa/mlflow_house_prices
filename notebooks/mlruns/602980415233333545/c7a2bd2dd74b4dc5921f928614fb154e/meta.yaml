@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vitor/Documents/ambientes/mlflow_win64x/mlflow_alura/notebooks/mlruns/602980415233333545/c7a2bd2dd74b4dc5921f928614fb154e/artifacts
+deleted_time: 1741947435807
+end_time: 1741946713227
+entry_point_name: ''
+experiment_id: '602980415233333545'
+lifecycle_stage: deleted
+run_id: c7a2bd2dd74b4dc5921f928614fb154e
+run_name: charming-conch-956
+run_uuid: c7a2bd2dd74b4dc5921f928614fb154e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741946693951
+status: 3
+tags: []
+user_id: vitor

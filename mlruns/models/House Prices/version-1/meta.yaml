@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742062678007
+current_stage: None
+description: ''
+last_updated_timestamp: 1742062678007
+name: House Prices
+run_id: 14f4252e0b9747afbd54352f72da8e7c
+run_link: ''
+source: file:///C:/Users/vitor/Documents/ambientes/mlflow_win64x/mlflow_alura/mlruns/580654953488474846/14f4252e0b9747afbd54352f72da8e7c/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/vitor/Documents/ambientes/mlflow_win64x/mlflow_alura/mlruns/580654953488474846/14f4252e0b9747afbd54352f72da8e7c/artifacts/model
+user_id: null
+version: 1

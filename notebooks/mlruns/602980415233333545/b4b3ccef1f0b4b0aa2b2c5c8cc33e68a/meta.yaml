@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vitor/Documents/ambientes/mlflow_win64x/mlflow_alura/notebooks/mlruns/602980415233333545/b4b3ccef1f0b4b0aa2b2c5c8cc33e68a/artifacts
+deleted_time: 1741947435808
+end_time: 1741946919887
+entry_point_name: ''
+experiment_id: '602980415233333545'
+lifecycle_stage: deleted
+run_id: b4b3ccef1f0b4b0aa2b2c5c8cc33e68a
+run_name: crawling-rat-46
+run_uuid: b4b3ccef1f0b4b0aa2b2c5c8cc33e68a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741946900273
+status: 3
+tags: []
+user_id: vitor

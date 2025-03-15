@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vitor/Documents/ambientes/mlflow_win64x/mlflow_alura/notebooks/mlruns/602980415233333545/f0cee21d597b49729c68fab8e6200f53/artifacts
+deleted_time: 1741947435806
+end_time: 1741946693879
+entry_point_name: ''
+experiment_id: '602980415233333545'
+lifecycle_stage: deleted
+run_id: f0cee21d597b49729c68fab8e6200f53
+run_name: gentle-smelt-402
+run_uuid: f0cee21d597b49729c68fab8e6200f53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741946667702
+status: 3
+tags: []
+user_id: vitor

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Documents/ambientes/mlflow_win64x/mlflow_alura/mlruns/580654953488474846/f2ef35171d4b40ba89467c4c23091659/artifacts
+end_time: 1742063013096
+entry_point_name: ''
+experiment_id: '580654953488474846'
+lifecycle_stage: active
+run_id: f2ef35171d4b40ba89467c4c23091659
+run_name: inquisitive-gull-697
+run_uuid: f2ef35171d4b40ba89467c4c23091659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742062982106
+status: 3
+tags: []
+user_id: vitor

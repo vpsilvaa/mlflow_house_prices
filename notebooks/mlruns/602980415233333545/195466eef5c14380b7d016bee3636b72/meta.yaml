@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Documents/ambientes/mlflow_win64x/mlflow_alura/notebooks/mlruns/602980415233333545/195466eef5c14380b7d016bee3636b72/artifacts
+end_time: 1742050481554
+entry_point_name: ''
+experiment_id: '602980415233333545'
+lifecycle_stage: active
+run_id: 195466eef5c14380b7d016bee3636b72
+run_name: awesome-lark-483
+run_uuid: 195466eef5c14380b7d016bee3636b72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742050433203
+status: 3
+tags: []
+user_id: vitor

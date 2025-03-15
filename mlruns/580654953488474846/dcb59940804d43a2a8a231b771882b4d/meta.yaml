@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vitor/Documents/ambientes/mlflow_win64x/mlflow_alura/mlruns/580654953488474846/dcb59940804d43a2a8a231b771882b4d/artifacts
+end_time: 1742052217263
+entry_point_name: ''
+experiment_id: '580654953488474846'
+lifecycle_stage: active
+run_id: dcb59940804d43a2a8a231b771882b4d
+run_name: stylish-eel-284
+run_uuid: dcb59940804d43a2a8a231b771882b4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742052173378
+status: 3
+tags: []
+user_id: vitor
