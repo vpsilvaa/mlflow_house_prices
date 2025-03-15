@@ -28,6 +28,18 @@ Passos importantes:
 
 comandos:
 
+pip install mlflow[extras]
+mlflow ui
+mlflow run http... -P alpha=0.5
+
+pip install cookiecutter
+cookiecutter https://github.com/jcalvesoliveira/cookiecutter-ds-basic.git
+
+cd mlflow/notebooks/
+mlflow ui
+
+jupyter lab --no-browser
+
 cookiecutter https://github.com/drivendataorg/cookiecutter-data-science
 cookiecutter https://github.com/jcalvesoliveira/cookiecutter-ds-basic.git
 
