@@ -28,6 +28,9 @@ Passos importantes:
 
 comandos:
 
+cookiecutter https://github.com/drivendataorg/cookiecutter-data-science
+cookiecutter https://github.com/jcalvesoliveira/cookiecutter-ds-basic.git
+
 python src\models\train_model.py --learning_rate 0.3 --max_depth 5
 
 mlflow models predict -m 'runs:/14f4252e0b9747afbd54352f72da8e7c/model' -i 'data/processed/casas_X.csv' -t "csv" --env-manager local -o "data/processed/precos_cmd.csv"
